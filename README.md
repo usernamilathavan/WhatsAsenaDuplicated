@@ -79,6 +79,9 @@ is not responsible for the usage purpose and method of the users.
 ----
 ![Docker Pulls](https://img.shields.io/docker/pulls/fusuf/whatsasena?style=flat-square) ![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/fusuf/whatsasena?style=flat-square)
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fusernamilathavan%2FWhatsAsenaDuplicated.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fusernamilathavan%2FWhatsAsenaDuplicated?ref=badge_large)
+
 ## 📢 Guide
 > [Also for support & help please come our Telegram group.](https://t.me/AsenaSupport) (Legacy)
 
@@ -95,6 +98,7 @@ is not responsible for the usage purpose and method of the users.
 
 ### Simple Method
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fusernamilathavan%2FWhatsAsenaDuplicated.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fusernamilathavan%2FWhatsAsenaDuplicated?ref=badge_shield)
 
 Repl.it is less stable. Try Termux instead for qrcode generation.
 
